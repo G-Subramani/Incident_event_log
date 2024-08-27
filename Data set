@@ -1,0 +1,3 @@
+Data set : Incident management process enriched event loghttps://archive.ics.uci.edu/dataset/498/incident+management+process+enriched+event+log
+Number of instances: 141,712 events (24,918 incidents)
+Number of attributes: 36 attributes (1 case identifier, 1 state identifier, 32 descriptive attributes, 2 dependent variables)
